@@ -1,0 +1,53 @@
+
+.main{
+    text-align: center;
+    background-image:url('https://media.tenor.com/0HHbwJSpVMkAAAAM/wallpaper-hd-wallpaper.gif');
+    background-size:cover; 
+    height: 500px;
+    padding-top:150px;
+    
+    
+}
+.info{
+    color:rgb(37, 153, 225);
+    font-style:oblique;
+    display:block;
+    margin:auto;
+    margin-bottom: 20px;
+    font-family: god;
+    
+}
+.box{
+    padding:5px 10px;
+    color:rgb(37, 153, 225);
+    border:none;
+    background-color:white;
+    font-weight:bold;
+    font-style:oblique;
+    display:block;
+    margin:auto;
+    text-align:center;
+
+}
+.im{
+    padding-top:20px;
+    padding:auto;
+
+}
+
+.terms{
+    width:auto;
+    display:flex;
+    justify-content: center;
+    margin-top:20px;
+    background-color: white;
+
+}
+.line{
+    border-bottom: 5px solid white;
+}
+@font-face{
+    src:url('TheGodfather-v2.ttf');
+    font-family:god;
+}
+
